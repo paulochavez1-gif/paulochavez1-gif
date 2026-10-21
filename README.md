@@ -14,8 +14,16 @@ Mexicano en Barcelona · máster en Marketing Digital e IA (Inesdi) · producto,
 
 | | |
 |---|---|
-| 🧾 **[Recivo](https://paulochavez1-gif.github.io/recivo/)** | Asistente de gastos e impuestos por WhatsApp. Gemini lee tickets, PDFs y notas de voz; reglas deterministas validan cada dato; el panel cuadra al céntimo con el Excel del gestor. En producción con número oficial de WhatsApp. *Código privado.* |
+| 🧾 **[Recivo](https://paulochavez1-gif.github.io/recivo/)** | Asistente de gastos e impuestos por WhatsApp. Gemini lee tickets, PDFs y notas de voz; reglas deterministas validan cada dato; el panel cuadra al céntimo con el Excel del gestor. **Negocio:** El Parte diario por WhatsApp (food cost, margen, IVA a apartar), vigilante de precios de proveedores, 303/130/347/390 (ES) e IVA/ISR/DIOT (MX). **Personal:** lo que te queda del mes, ingresos por origen, tarjetas con aviso de corte y pago, suscripciones que se apuntan solas. +230 pruebas automáticas. En producción con número oficial de WhatsApp. *Código privado.* |
 | ✅ **[ticket-check](https://github.com/paulochavez1-gif/ticket-check)** | La capa que va después de la IA: importes, NIF/CIF, RFC, fechas y moneda con reglas demostrables, y voto entre lecturas. Extraída de Recivo. Sin dependencias, MIT. |
+
+#### Lo último en Recivo
+
+- **21 oct** · Salud financiera real (anillo de vitalidad) _(Ambos)_
+- **21 oct** · El Parte por sector: comercio y autónomos (facturado, margen, IVA a apartar) _(Negocio)_
+- **20 oct** · Tu mes: te queda, ritmo, próxima fecha de tarjeta _(Personal)_
+- **20 oct** · Vigilante de precios de proveedores _(Negocio)_
+- **20 oct** · El Parte (pestaña Hoy + WhatsApp cada mañana) _(Negocio)_
 
 #### Cómo trabajo
 
