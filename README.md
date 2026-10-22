@@ -19,11 +19,11 @@ Mexicano en Barcelona · máster en Marketing Digital e IA (Inesdi) · producto,
 
 #### Lo último en Recivo
 
+- **22 oct** · El Parte pide tu CIF/RFC para reconocer ventas sin preguntarte _(Negocio)_
+- **22 oct** · "Antes de presentar": revisa NIF/RFC, casillas del 303 y terceros del 347 antes de enviar nada _(Negocio)_
+- **22 oct** · DIOT en el formato de carga masiva del SAT y complementos de pago de facturas en parcialidades _(Negocio MX)_
+- **22 oct** · Ficheros oficiales del 347 (con cobros en efectivo) y del 349 (compras y ventas a la UE) para el gestor _(Negocio ES)_
 - **21 oct** · Retenciones IRPF/ISR e IVA retenido, restadas en 130 e ISR; 111 y 115 exactos _(Autónomos)_
-- **21 oct** · Fichero oficial del Modelo 303 (diseño AEAT 2026) en el paquete del gestor _(Negocio ES)_
-- **21 oct** · Facturas electrónicas de México (CFDI): el XML se lee exacto sin IA y se comprueba en el SAT _(Negocio MX)_
-- **21 oct** · ¿Es deducible? Reglas fijas ES/MX: lo que no deduce no cuenta y lo dudoso queda "a revisar" _(Negocio)_
-- **21 oct** · Salud financiera real (anillo de vitalidad) _(Ambos)_
 
 #### Cómo trabajo
 
