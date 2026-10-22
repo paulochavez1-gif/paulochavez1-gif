@@ -19,11 +19,11 @@ Mexicano en Barcelona · máster en Marketing Digital e IA (Inesdi) · producto,
 
 #### Lo último en Recivo
 
+- **21 oct** · Retenciones IRPF/ISR e IVA retenido, restadas en 130 e ISR; 111 y 115 exactos _(Autónomos)_
+- **21 oct** · Fichero oficial del Modelo 303 (diseño AEAT 2026) en el paquete del gestor _(Negocio ES)_
+- **21 oct** · Facturas electrónicas de México (CFDI): el XML se lee exacto sin IA y se comprueba en el SAT _(Negocio MX)_
+- **21 oct** · ¿Es deducible? Reglas fijas ES/MX: lo que no deduce no cuenta y lo dudoso queda "a revisar" _(Negocio)_
 - **21 oct** · Salud financiera real (anillo de vitalidad) _(Ambos)_
-- **21 oct** · El Parte por sector: comercio y autónomos (facturado, margen, IVA a apartar) _(Negocio)_
-- **20 oct** · Tu mes: te queda, ritmo, próxima fecha de tarjeta _(Personal)_
-- **20 oct** · Vigilante de precios de proveedores _(Negocio)_
-- **20 oct** · El Parte (pestaña Hoy + WhatsApp cada mañana) _(Negocio)_
 
 #### Cómo trabajo
 
